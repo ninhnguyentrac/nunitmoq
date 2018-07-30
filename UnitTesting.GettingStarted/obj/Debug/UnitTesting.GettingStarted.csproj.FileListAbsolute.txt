@@ -1,0 +1,6 @@
+D:\Exsample\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\bin\Debug\UnitTesting.GettingStarted.dll
+D:\Exsample\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\bin\Debug\UnitTesting.GettingStarted.pdb
+D:\Exsample\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\obj\Debug\UnitTesting.GettingStarted.csproj.CoreCompileInputs.cache
+D:\Exsample\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\obj\Debug\UnitTesting.GettingStarted.dll
+D:\Exsample\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\obj\Debug\UnitTesting.GettingStarted.pdb
+D:\Exsample\UnitTesting.GettingStarted.Tests\UnitTesting.GettingStarted\obj\Debug\UnitTesting.GettingStarted.csprojResolveAssemblyReference.cache
